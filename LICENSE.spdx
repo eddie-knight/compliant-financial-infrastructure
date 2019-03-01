@@ -1,7 +1,7 @@
 SPDXVersion: SPDX-2.0
 DataLicense: CC0-1.0
 Creator: FINOS
-PackageName: Terraform scripts AWS EKS for CDMC
+PackageName: Terraform Module for AWS EKS
 PackageOriginator: FINOS
-PackageHomePage: https://github.com/finos/terraform-aws-eks_cdmc
+PackageHomePage: https://github.com/finos/terraform-aws-eks
 PackageLicenseDeclared: Apache-2.0
