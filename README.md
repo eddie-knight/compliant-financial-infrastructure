@@ -1,7 +1,9 @@
+![](https://byob.yarr.is/shuchitach/compliant-financial-infrastructure/abc)
 [![FINOS - Incubating](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-incubating.svg)](https://finosfoundation.atlassian.net/wiki/display/FINOS/Incubating)
 [<img src="https://img.shields.io/badge/slack-@finos/compliant%20financial%20infrastructure-green.svg?logo=slack">](https://finos-lf.slack.com/messages/compliant-financial-infrastructure/)
 
 <img src="https://github.com/finos/branding/blob/master/project-logos/active-project-logos/Compliant%20Financial%20Infrastructure%20Logo/Horizontal/2021_CFI_Logo_Horizontal.png?raw=true" width="450">
+
 
 # Compliant Financial Infrastructure
 Compliant Financial Infrastructure (CFI) accelerates the development, deployment and adoption of services provided for _AWS_, _Azure_, _Google Cloud_, and _IBM Cloud_ in a way that meets existing regulatory and internal security controls.
@@ -43,11 +45,11 @@ to help contributors looking for a task know where best to spend their effort.
 
 |                    |         AWS         |         GCP         |        Azure        |    OpenShift     |
 | ------------------:|:-------------------:|:-------------------:|:-------------------:|:----------------:|
-| Kubernetes Cluster |     ![](https://byob.yarr.is/probr/probr-core/eks-terraform)       |       :cookie:      |  :page_facing_up:   | :page_facing_up: |
+| Kubernetes Cluster |  ![](https://byob.yarr.is/shuchitach/compliant-financial-infrastructure/eks-terraform)       |       :cookie:      |  :page_facing_up:   | :page_facing_up: |
 |  Postgres Database |                     |                     |      :cookie:       |                  |
 |           DynamoDB |  :page_facing_up:   |                     |                     |                  |
 |           RedShift |  :page_facing_up:   |                     |                     |                  |
-|                SQS |  :page_facing_up:   |                     |                     |                  |
+|                SQS |  ![](https://byob.yarr.is/shuchitach/compliant-financial-infrastructure/eks-terraform)   |                     |                     |                  |
 
 
 ### Key
